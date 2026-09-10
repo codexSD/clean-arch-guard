@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "clean-arch-guard",
+  "version": "1.0.0",
+  "displayName": "Clean Architecture Guard",
+  "description": "Clean Architecture boundaries plus an anti-slop review gate for AI-assisted code.",
+  "author": {
+    "name": "Abdallah Ali",
+    "url": "https://github.com/codexSD"
+  },
+  "license": "MIT",
+  "keywords": [
+    "architecture",
+    "clean-architecture",
+    "code-review",
+    "dotnet",
+    "anti-slop"
+  ]
+}

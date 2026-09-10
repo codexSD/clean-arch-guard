@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "clean-arch-guard-local",
+  "owner": {
+    "name": "Abdallah Ali",
+    "url": "https://github.com/codexSD"
+  },
+  "plugins": [
+    {
+      "name": "clean-arch-guard",
+      "source": "./",
+      "description": "Clean Architecture boundaries plus an anti-slop review gate for AI-assisted code."
+    }
+  ]
+}
